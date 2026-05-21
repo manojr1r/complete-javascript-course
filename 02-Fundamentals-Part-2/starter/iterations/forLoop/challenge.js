@@ -12,7 +12,7 @@ for (let i = 0; i < bills.length; i++) {
   tips[i] = calcTip(bills[i]);
   totals[i] = bills[i] + tips[i];
 }
-// console.log(bills, tips, totals);
+console.log(bills, tips, totals);
 
 function calcAverage(arr) {
   let sum = 0;
