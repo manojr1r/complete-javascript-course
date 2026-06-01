@@ -55,8 +55,3 @@ console.log("String with \n multiple \n lines");
 console.log(`String
 multiple
 lines`);
-
-//type conversion
-console.log(String(23), 23);
-
-//type coercion
